@@ -26,7 +26,7 @@
 			'Jan-Jaap','Elizabeth','Abigeil','Fritz','Oemed',
 			'Adam',
 			'Jan','Kevin', 'Gerano',
-			'Kane','Dave','Jabir','Wessel',
+			'Kane','Dave','Jabir','Wessel','Kerst',
 			'Carlijn','Mark', 'Joey', 'Liam','Ahmad','Lukas','Yari','Peyman','Ton','Mandy' ];
 
 	var tree = document.querySelector( '.tree' ),
